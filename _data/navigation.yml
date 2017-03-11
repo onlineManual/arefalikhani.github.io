@@ -1,8 +1,8 @@
-- title: about
+- title: About
   url: /me
 
-- title: github
-  url: https://github.com/getmicah
+- title: Github
+  url: https://github.com/LibreMaple
 
-- title: twitter
-  url: https://twitter.com/elonmusk
+##- title: twitter
+  ##url: https://twitter.com/elonmusk
